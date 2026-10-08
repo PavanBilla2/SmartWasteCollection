@@ -5,6 +5,8 @@ A C++-based Smart Waste Collection Route Optimizer that models a city's road net
 
 ---
 
+LIVE LINK: https://smart-waste-collection-72dz-ggfkm4qaj-pavan-billa.vercel.app/
+
 ## 📌 Project Overview
 
 Efficient waste collection is an important challenge in modern smart cities. This project helps optimize the route of a garbage collection truck by finding the shortest paths between waste collection points and selecting the next nearest unvisited location using a greedy strategy.
