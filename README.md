@@ -1,5 +1,5 @@
 # SmartWasteCollection
-# ♻️ Smart Waste Collection Route Optimizer
+#  Smart Waste Collection Route Optimizer
 
 A C++-based Smart Waste Collection Route Optimizer that models a city's road network as a weighted graph and generates an optimized waste collection route using **Graph Data Structures**, **Dijkstra's Shortest Path Algorithm**, and a **Greedy Route Optimization** approach.
 
@@ -13,28 +13,28 @@ The project demonstrates the practical application of Data Structures and Algori
 
 ---
 
-## ✨ Features
+## Features
 
-- 🛣️ Create a weighted road network using Graphs
-- 📍 Represent waste collection points as graph vertices
-- 🔗 Add roads with distances as weighted edges
-- 🌐 Display the complete road network
-- 🔍 Check network connectivity using BFS
-- 🌲 Traverse the graph using DFS
-- 🚀 Find shortest paths using Dijkstra's Algorithm
-- 🚛 Optimize the waste collection route using a Greedy Algorithm
-- 🏠 Return the truck to the starting depot
-- 📊 Generate a collection report with:
+-  Create a weighted road network using Graphs
+-  Represent waste collection points as graph vertices
+-  Add roads with distances as weighted edges
+-  Display the complete road network
+-  Check network connectivity using BFS
+-  Traverse the graph using DFS
+-  Find shortest paths using Dijkstra's Algorithm
+-  Optimize the waste collection route using a Greedy Algorithm
+-  Return the truck to the starting depot
+-  Generate a collection report with:
   - Optimized Route
   - Total Distance
   - Number of Waste Bins Covered
   - Estimated Fuel Consumption
   - Estimated Collection Time
-- ⚠️ Handle disconnected road networks gracefully
+-  Handle disconnected road networks gracefully
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - C++
 - Object-Oriented Programming (OOP)
@@ -45,7 +45,7 @@ The project demonstrates the practical application of Data Structures and Algori
 
 ---
 
-## 📚 Algorithms Used
+##  Algorithms Used
 
 ### Breadth First Search (BFS)
 - Used to verify whether all waste bins are reachable from the starting depot.
@@ -61,7 +61,7 @@ The project demonstrates the practical application of Data Structures and Algori
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 Smart-Waste-Collection-Route-Optimizer
@@ -85,7 +85,7 @@ Smart-Waste-Collection-Route-Optimizer
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ### Compile
 
@@ -128,7 +128,7 @@ Collection Status : SUCCESS
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
 - Interactive web dashboard
 - Live map visualization
@@ -141,7 +141,7 @@ Collection Status : SUCCESS
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 This project demonstrates practical implementation of:
 
@@ -156,7 +156,7 @@ This project demonstrates practical implementation of:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Pavan Billa**
 
@@ -169,7 +169,3 @@ Interested in:
 - Software Development
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License.
